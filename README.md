@@ -46,6 +46,11 @@ The script:
 - `mplfinance` – Candlestick charting
 - `matplotlib` – Equity curve visualization
 
+Install dependencies:
+```bash
+pip install yfinance pandas numpy matplotlib mplfinance
+```
+
 ## Performance Metrics
 
 This section analyzes the **EMA 9/21 crossover strategy** over a **2-year backtest period**, capturing multiple market regimes including trends, consolidations, and drawdowns.
