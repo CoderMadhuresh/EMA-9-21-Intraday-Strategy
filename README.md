@@ -1,0 +1,1 @@
+# EMA-9-21-Intraday-Strategy
