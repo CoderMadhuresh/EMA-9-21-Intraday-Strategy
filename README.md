@@ -126,6 +126,6 @@ CAGR ≈ 18.6% per annum
 ![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%201.png)
 ![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%202.png)
 
-### Straegy Equity Curve
+### Strategy Equity Curve
 ![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%203.png)
 
