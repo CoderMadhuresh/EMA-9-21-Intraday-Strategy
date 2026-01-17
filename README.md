@@ -129,3 +129,5 @@ CAGR ≈ 18.6% per annum
 ### Strategy Equity Curve
 ![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%203.png)
 
+## Future Development 
+I plan to extend this project into a full-fledged algo trading system, where trades will be executed automatically based on the EMA 9/21 signals.
