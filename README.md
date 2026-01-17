@@ -120,5 +120,12 @@ CAGR is calculated using:
 CAGR = (Final Capital / Initial Capital)^(1 / Years) - 1
 CAGR ≈ 18.6% per annum
 ```
+## Output Graphs
+
+### RELIANCE.NS (1H) – EMA 9 / 21 Crossover Strategy with Trade Signals
 ![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%201.png)
+![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%202.png)
+
+### Straegy Equity Curve
+![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%203.png)
 
