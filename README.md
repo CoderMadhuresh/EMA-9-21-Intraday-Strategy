@@ -119,5 +119,6 @@ CAGR is calculated using:
 ```text
 CAGR = (Final Capital / Initial Capital)^(1 / Years) - 1
 CAGR ≈ 18.6% per annum
-
+```
+![](https://github.com/CoderMadhuresh/EMA-9-21-Intraday-Strategy/blob/main/Assets/Figure%201.png)
 
